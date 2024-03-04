@@ -66,3 +66,10 @@ def predict_survival():
 
 # Create a button to make a prediction
 st.button('Predict', on_click=predict_survival)
+
+'''
+To run this file use following command :
+
+streamlit run app.py
+
+''' 
